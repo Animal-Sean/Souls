@@ -1,0 +1,12 @@
+#==================#
+#
+#Created by Animal
+#
+#==================#
+
+#If you change this, delete playerinfo.yml or else it might break
+Souls: 2
+
+#Time of DeathBan in seconds
+#Supports large numbers !
+DeathBanTime: 5

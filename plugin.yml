@@ -1,0 +1,6 @@
+name: Souls
+version: 1.0
+main: com.animal.souls.Core
+commands:
+  souls:
+  
